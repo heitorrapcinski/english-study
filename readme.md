@@ -55,7 +55,7 @@ Inter 2 **complete**
             - *I'm talking* with the suppliers *tomorrow at four p.m.* 
             - *I'm having dinner* with Leo *tomorrow at eight p.m.*
 ## GIVING ADVICE
-Inter 2 pages: 222  
+>Inter 2 pages: 222  
 - Suggestions and recommendations
 - You can use modals or semi-modals
 - Modal Verbs
@@ -96,7 +96,7 @@ Inter 2 pages: 222
     - Here is what I have to say
         - Here is what I have to say: if you don't commit to your studies, you might regret it.
 ## MODAL EXPRESSIONS
-Inter 1 pages 200  
+>Inter 1 pages 200  
 Inter 2 pages 227, 234, 245  
 - Contain similar meanings to those of modal verbs.
 - Might substitute modal verbs in certain situations.
@@ -208,7 +208,7 @@ Be Accustomed To
                 - To Be + Subject + Used To + Verb (–ING form) + Complement
                 - Are you used to traveling solo? (Are you accustomed to traveling on your own?)
 ## CONNECTORS
-Inter 1 pages: 165, 186, 195  
+>Inter 1 pages: 165, 186, 195  
 Inter 2 pages: 210, 215, 225, 240  
 - What?
     - Prepositions
@@ -330,7 +330,7 @@ Inter 2 pages: 210, 215, 225, 240
         - In spite of being on a diet, Julienne agreed to have dinner with us.
         - Julienne agreed to have dinner with us, in spite of being on a diet
 ## GIVING OPINION
-Inter 1 pages: 160, 161, 166, 179, 185, 190, 191  
+>Inter 1 pages: 160, 161, 166, 179, 185, 190, 191  
 Inter 2 pages: 206, 212  
 - Opinion
     - Positive
@@ -529,7 +529,7 @@ Inter 2 pages: 206, 212
             - Mark – I think this dress doesn't suit you. 
             - Leah – What do you mean?
 ## MODAL VERBS
-Inter 1 pages: 163, 174, 180, 182, 185, 193, 197  
+>Inter 1 pages: 163, 174, 180, 182, 185, 193, 197  
 Inter 2 pages: 207, 229, 245  
 - Modify verbs according to the speaker's perspective
 - Are followed by a bare infinitive verb (without to)
@@ -664,7 +664,7 @@ Inter 2 pages: 207, 229, 245
             - Would you like to go out for lunch tomorrow? Yes, I'd love to. / Unfortunately, I can't.
             - Would you like some water? Yes, please. / No, thank you. I'm OK
 ## COMPARATIVE FORMS
-Inter 2 pages: 205, 209, 232  
+>Inter 2 pages: 205, 209, 232  
 - Superiority
     - Long Adjectives
         - More + Adjective + Than
@@ -700,7 +700,7 @@ Inter 2 pages: 205, 209, 232
         - More frequenly: Lawrence is friendlier than Mike
         - More frequenly: Mike is not as friendly as Lawrence.
 ## SUPERLATIVE FORMS
-Inter 2 pages: 220, 232  
+>Inter 2 pages: 220, 232  
 - The superlative forms refer to extremes. It is one unique thing with an incomparable feature.
 - Superiority
     - Long Adjectives
@@ -740,7 +740,7 @@ Inter 2 pages: 220, 232
         - Leave the least important problem for tomorrow.
         - Michael is the least interested student in class.
 ## PRONOUNS
-Inter 1 pages: 176  
+>Inter 1 pages: 176  
 Inter 2 pages: 219  
 - Subject Pronouns
     - Function as subjects
@@ -809,7 +809,7 @@ Inter 2 pages: 219
         - Adam is worried about Professor Storm because the professor claims to be in trouble.
         - Adam is worried because the Professor said that Adam is in trouble.
 ## NARRATIVE TIMELINE
-Inter 1 pages: 164, 170, 183, 185  
+>Inter 1 pages: 164, 170, 183, 185  
 Inter 2 pages: 204, 214, 217  
 - Story -> Narrative -> Moves from the past to the present and into the future
 - In order to make a narrative, it is necessary to use verb forms and time expressions that show the chronological sequence of the actions.
@@ -951,7 +951,7 @@ Inter 2 pages: 204, 214, 217
         - While they were having dinner, it started to snow.
             - While = During the time
 ## EXPRESSING QUANTITY
-Inter 1 pages: 172  
+>Inter 1 pages: 172  
 - Countable Nouns
     - Question: How many?
     - Quantifiers:
@@ -999,7 +999,7 @@ Inter 1 pages: 172
         - There are some professions in the group. (Not all, but part of the professions there are.)
         - There aren't any companies in the group. (There is not one company, at all.)
 ## RELATIVE PRONOUNS
-Inter 1 pages 194  
+>Inter 1 pages 194  
 Inter 2 pages 236  
 - Modify nouns or some pronouns → Used to identify people and things or to give extra information about them.
 - They refer to people, things, or ideas previously mentioned. They are either part of non-restrictive clause or of a restrictive clause.
@@ -1054,7 +1054,7 @@ Inter 2 pages 236
                 - (which / that) = The smartphone
                 - (which / that) needs to be fixed = Restrictive Clauses
 ## TAG QUESTIONS
-Inter 2 pages 239  
+>Inter 2 pages 239  
 - Use
     - Used at the end of a sentence to confirm the statement previously made.
     - Used with all verb forms.
@@ -1084,7 +1084,7 @@ Inter 2 pages 239
     - Sentences with "I'm" - use, "aren't I"
         - I am pretty smart, aren't I?
 ## EXPRESSIONS WITH GET AND FEEL
-Inter 2 pages 233  
+>Inter 2 pages 233  
 - There are different ways to express emotions in English. Let's focus on the verbs to get and to feel. 
     - To Get = To Become
         - The verb to get has different meanings according to its complements and contexts. When combined with adjectives, its meaning is to become, as a consequence of something.
@@ -1106,7 +1106,7 @@ Inter 2 pages 233
         - To feel unconfortable
         - To feel fine
 ## EXPRESSING PREFERENCES
-Inter 2 pages 244  
+>Inter 2 pages 244  
 - Verb To Prefer
     - Things
         - Subject + Verb To Prefer + Thing 1 + To + Thing 2 
@@ -1124,7 +1124,7 @@ Inter 2 pages 244
     - Negative 
         - I would rather not stay home.
 ## REASONING: WHY
-Inter 1 pages 199  
+>Inter 1 pages 199  
 - Reasons, arguments, and evidence that support argumentation
 - Answer the question "Why?" or other questions that seek justification.
 - Question
