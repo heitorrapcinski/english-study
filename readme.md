@@ -4,8 +4,7 @@ Inter 1 *complete*
 Inter 2 *complete*
 
 ## VERB TENSES
-Inter 1 pages: 169, 177
-
+Inter 1 pages: 169, 177  
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -100,10 +99,8 @@ Inter 2 pages: 222
     - Here is what I have to say
         - Here is what I have to say: if you don't commit to your studies, you might regret it.
 ## MODAL EXPRESSIONS
-Inter 1 pages 200
-
-Inter 2 pages 227, 234, 245
-
+Inter 1 pages 200  
+Inter 2 pages 227, 234, 245  
 - Contain similar meanings to those of modal verbs.
 - Might substitute modal verbs in certain situations.
 - Use
