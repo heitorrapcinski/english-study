@@ -44,16 +44,16 @@ Inter 2 **complete**
     - Simple Present
         - Used to refer to actions that are part of a schedule. The use of time expressions is extremely important to indicate the future.
         - Examples
-            - Christmas *is* in December. 
-            - I can't travel because I *work* this weekend.
-            - My flight *departs* at eight a.m.
+            - Christmas **is** in December. 
+            - I can't travel because I **work** this weekend.
+            - My flight **departs** at eight a.m.
     - Present Continuous
         - Used to refer to appointments, dates, or commitments that are pre-arranged and confirmed. 
         - Examples
-            - *I'm seeing* the doctor *tomorrow at nine a.m.* 
-            - *I'm having* lunch with my boss *tomorrow at one p.m.* 
-            - *I'm talking* with the suppliers *tomorrow at four p.m.* 
-            - *I'm having dinner* with Leo *tomorrow at eight p.m.*
+            - **I'm seeing** the doctor **tomorrow at nine a.m.** 
+            - **I'm having** lunch with my boss **tomorrow at one p.m.** 
+            - **I'm talking** with the suppliers **tomorrow at four p.m.** 
+            - **I'm having dinner** with Leo **tomorrow at eight p.m.**
 ## GIVING ADVICE
 >Inter 2 pages: 222  
 - Suggestions and recommendations
