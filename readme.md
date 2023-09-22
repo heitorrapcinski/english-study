@@ -2,7 +2,7 @@
 >Inter 1 **complete**  
 Inter 2 **complete**  
 ## VERB TENSES
-Inter 1 pages: 169, 177  
+>Inter 1 pages: 169, 177  
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
