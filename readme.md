@@ -242,9 +242,9 @@ Inter 2 pages: 210, 215, 225, 240
         - As we all know
         - In short
         - Examples
-            - my is a highly skilled professional at a very young age. *So*, I think the company should keep on investing in her.
-            - Amy is a highly skilled professional at a very young age. *As a conclusion*, I think the company should keep on investing in her.
-            - *As we have seen*, Amy is a highly skilled professional at a very young age. *Because of that*, I think the company should keep on investing in her.
+            - my is a highly skilled professional at a very young age. **So**, I think the company should keep on investing in her.
+            - Amy is a highly skilled professional at a very young age. **As a conclusion**, I think the company should keep on investing in her.
+            - *As we have seen*, Amy is a highly skilled professional at a very young age. **Because of that**, I think the company should keep on investing in her.
     - Addition
         - And
         - Besides that
@@ -252,10 +252,10 @@ Inter 2 pages: 210, 215, 225, 240
         - Moreover
         - Furthermore
         - Examples
-            - Amy is a skilled professional *and* she is also a great team player.
-            - Amy is a skilled professional. *Besides that*, she is a great team player.
-            - Amy is a skilled professional. *Moreover*, she is a great team player.
-            - Amy is a skilled professional. *Furthermore*, she is a great team player.
+            - Amy is a skilled professional **and** she is also a great team player.
+            - Amy is a skilled professional. **Besides that**, she is a great team player.
+            - Amy is a skilled professional. **Moreover**, she is a great team player.
+            - Amy is a skilled professional. **Furthermore**, she is a great team player.
     - Contrast
         - But
         - Although
@@ -265,10 +265,10 @@ Inter 2 pages: 210, 215, 225, 240
         - On the other hand
         - On the contrary
         - Examples
-            - Amy is a young woman *but* she is already a highly skilled professional.
-            - *Although / Even though* Amy is still young, she is a highly skilled professional.
-            - Amy is a young woman. *However*, she is already a highly skilled professional.
-            - *Despite* being young, Amy is a highly skilled professional.
+            - Amy is a young woman **but** she is already a highly skilled professional.
+            - **Although / Even though** Amy is still young, she is a highly skilled professional.
+            - Amy is a young woman. **However**, she is already a highly skilled professional.
+            - **Despite** being young, Amy is a highly skilled professional.
     - Cause and Effect
         - Used in the between two sentences or at the beginning of a sentence.
             - Hence
@@ -297,12 +297,12 @@ Inter 2 pages: 210, 215, 225, 240
         - Such as
         - Namely
         - Examples
-            - Mammals are animals *that* produce milk to feed their babies, namely dogs, lions, and humans
-            - Free healthcare is successfully provided in many countries, *such as* Canada, Australia, and France
-            - Amy is a highly skilled professional. She has great ideas, *for instance*, she was the one who improved our customer service.
-            - Amy is a highly skilled professional. She has great ideas. *As an example*, she was the one who improved our customer service.
-            - Amy is a highly skilled professional. She has great ideas, *such as* improving our customer service.
-            - Amy is a highly skilled professional. She has great ideas, *namely* improving our customer service
+            - Mammals are animals **that** produce milk to feed their babies, namely dogs, lions, and humans
+            - Free healthcare is successfully provided in many countries, **such as** Canada, Australia, and France
+            - Amy is a highly skilled professional. She has great ideas, **for instance**, she was the one who improved our customer service.
+            - Amy is a highly skilled professional. She has great ideas. **As an example**, she was the one who improved our customer service.
+            - Amy is a highly skilled professional. She has great ideas, **such as** improving our customer service.
+            - Amy is a highly skilled professional. She has great ideas, **namely** improving our customer service
     - Listing
         - They give us an idea of order when you provide a list of things, instructions, or examples.
         - To begin
@@ -586,7 +586,7 @@ Inter 2 pages: 207, 229, 245
     - Affirmative
         - Subject + Must + Verb (to)
     - Negative
-        - Mustn't (the negative form of Must) *expresses prohibition*.
+        - Mustn't (the negative form of Must) **expresses prohibition**.
         - Subject + Must Not (Mustn’t) + Verb (to) (different meaning)
     - Interrogative 
         - Must + Subject + Verb (to)
@@ -603,7 +603,7 @@ Inter 2 pages: 207, 229, 245
         - Have To != Must
         - do not (don't) have to or does not (doesn't) have to — the meaning is "it is not necessary."
     - Examples
-        - The director gave the order, so I *have to* check the archives first
+        - The director gave the order, so I **have to** check the archives first
 - Should
     - Advice
     - Recommendation
@@ -1009,10 +1009,10 @@ Inter 2 pages 236
         - It may give extra information or essential information about the subject. 
         - Who is the subject of the relative clause. 
         - Examples
-            - The postman, *who came this morning*, delivered an important message.
+            - The postman, **who came this morning**, delivered an important message.
                 - Extra information → Not necessary to understand who the postman is.
                 - When used to add information, the relative clause introduced by Who comes in between commas (,).
-            - Johnny is the postman *who came this morning*. 
+            - Johnny is the postman **who came this morning**. 
                 - Essential information to identify the postman.
     - Which
     - That 
@@ -1020,9 +1020,9 @@ Inter 2 pages 236
         - That may be used to identify people.
         - Relative clauses introduced by that don’t come in between commas (,).
         - Examples
-            - Juliet usually makes friends with people *that are trustworthy and show her a good time.*
+            - Juliet usually makes friends with people **that are trustworthy and show her a good time.**
                 - Essential information to identify the subject. 
-            - Juliet is a woman that *values her right to be independent.* 
+            - Juliet is a woman that **values her right to be independent.** 
                 - Essential information to identify Juliet.
 - Structure
     - Non-restrictive Clauses
@@ -1110,10 +1110,10 @@ Inter 2 pages 236
 - Verb To Prefer
     - Things
         - Subject + Verb To Prefer + Thing 1 + To + Thing 2 
-        - Nick *prefers* soccer to volleyball. 
+        - Nick **prefers** soccer to volleyball. 
     - Actions 
         - Subject + Verb To Prefer + Verb in Infinitive + Rather Than + Verb in Infinitive or –ING + Complement
-        - Julia *prefers* to watch a movie rather than to eat/eating out. 
+        - Julia **prefers** to watch a movie rather than to eat/eating out. 
 - Would Rather
     - The short form "I'd rather" is commonly used in spoken and informal written language. 
     - The word "not" doesn't get a short form with would rather. 
@@ -1133,10 +1133,10 @@ Inter 2 pages 236
     - Why do you think (that) it's better to travel at night?
 -  Introducing Sentences - Reasoning
     - Why don’t you like to travel in the holiday season?
-        - *Because* the roads are too busy.
+        - **Because** the roads are too busy.
     - Do you think it is a good idea to drive late at night?
-        - *I'd say that* it is better in the morning, but we'll waste time if we don't leave on Friday night.
+        - **I'd say that** it is better in the morning, but we'll waste time if we don't leave on Friday night.
     - Why do you buy so much food?
-        - *The reason* is that I hate going to the supermarket during the week.
+        - **The reason** is that I hate going to the supermarket during the week.
     - OK, but why me? 
-        - *The point* is that if I go shopping for food, we'll only eat cookies and chocolate.
+        - **The point** is that if I go shopping for food, we'll only eat cookies and chocolate.
