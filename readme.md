@@ -1,6 +1,7 @@
 # English Review
 >Inter 1 **complete**  
-Inter 2 **complete**  
+Inter 2 **complete**
+Inter 3 249-253  
 ## VERB TENSES
 >Inter 1 pages: 169, 177  
 - PAST CONTINUOUS
@@ -1140,3 +1141,34 @@ Inter 2 pages 236
         - **The reason** is that I hate going to the supermarket during the week.
     - OK, but why me? 
         - **The point** is that if I go shopping for food, we'll only eat cookies and chocolate.
+## GIVING GOOD AND BAD NEWS
+>Inter 3 pages 249
+- Giving Good News
+    - When you have news that will make people happy, there are some expressions you can use
+        - The good news is...
+        - The good thing is...
+        - Here is some great news...
+        - I'm glad to tell you...
+        - I'm really thrilled that...  
+        - I am happy to say that...
+- Giving Bad News 
+    - When you have news that will make people sad, angry, or frustrated, you use other expressions that will prepare the listener for the bad news
+        - The bad news is...
+        - Unfortunately...
+        - How can I put this...
+        - I regret to say that...
+        - I'm sorry to say that...
+        - I am afraid that...
+## BASIC REPORTING STRATEGIES
+>Inter 3 pages 248
+- Retelling something that someone told you or that you overheard
+- When retelling a story, we usually use the verbs 
+    - Say something 
+    - Tell a story 
+    - Ask a question or favor
+    - **Mary told me** she is getting married next year.
+    - **She said that** it will be a great party. 
+    - **I asked her** if she needed my help. 
+    - **She asked me** to be her bridesmaid. 
+    - **I said that** it would be an honor. 
+    - Then, **I asked her** what she needed me to do. 
