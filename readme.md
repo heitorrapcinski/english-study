@@ -3,7 +3,8 @@
 Inter 2 **complete**
 Inter 3 249-253  
 ## VERB TENSES
->Inter 1 pages: 169, 177  
+>Inter 1 pages: 169, 177 
+Inter 3 pages 250 
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -55,6 +56,50 @@ Inter 3 249-253
             - **I'm having** lunch with my boss **tomorrow at one p.m.** 
             - **I'm talking** with the suppliers **tomorrow at four p.m.** 
             - **I'm having dinner** with Leo **tomorrow at eight p.m.**
+- PRESENT PERFECT
+    - Refers to the past from a present perspective
+    - Actions that happened in the past but affect the present → **Relevance**
+    - Actions that started in the past and continue into the present → **Continuity**
+    - Structure
+        - Affirmative
+            - Subject + Have/Has + Verb in Past Participle + Complement
+                - Juliet **has fallen** in love with Romeo. 
+                - My students **have read** Romeo and Juliet many times
+        - Negative
+            - Subject + Have Not/Has Not + Verb in Past Participle + Complement
+                - I **haven't eaten** anything since breakfast. I'm very hungry. 
+                - Nina is a vegetarian. She **hasn't had** any meat for years.
+        - Interrogative
+            - Have/Has + Subject + Verb in Past Participle + Complement
+                - **Have** you **thought** about modeling?
+                - **Has** your friend **confirmed** attendance to the wedding?
+    - Past Participle
+        - Regular Verbs 
+            - Same form as in the simple past - Terminations –D, –ED, or –IED
+        - Irregular Verbs 
+            - Third column of the list found at the end of this Language Guide
+    - First Use—Present Perfect: Action that is Relevant to the Present 
+        - It refers to an action or event that happened in the past with relevance, influence, or results in the present, whose time is unknown or irrelevant
+        - Example in Dialog
+            - Nick – What are you doing? 
+            - Leo – I’m studying this new software, but it’s so difficult. 
+            - Nick – Oh, I **have used** this before. Let me try to help you.
+            - Nick used the same software at **some moment in the past** and, because of that, he can help Leo **now**. 
+            - The **exact time** when Nick used the software is **not relevant** to this situation, only his current knowledge. 
+    - Second Use—Present Perfect: Focus on Continuity
+        - It refers to an action or event that started in the past and continues into the present
+        - Examples
+            - Since
+                - I've studied English.
+                    - Completed action in the past.
+                - I've studied English **since** 1995. 
+                    - **Since** marks the beginning of the action, so it still happens in the present.
+            - For
+                - I've studied English **for** twenty years. 
+                    - Now, we use **for** to refer to the duration of the activity, but it does not necessarily infer that it has a continuous aspect.
+                    - Open to two interpretations depending on context:
+                        - 1. The action started twenty years ago and it still happens in the present.
+                        - 2. The action lasted twenty years but has been completed alread
 ## GIVING ADVICE
 >Inter 2 pages: 222  
 - Suggestions and recommendations
