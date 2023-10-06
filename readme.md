@@ -4,7 +4,7 @@ Inter 2 **complete**
 Inter 3 249-253  
 ## VERB TENSES
 >Inter 1 pages: 169, 177 
-Inter 3 pages 250 
+Inter 3 pages 250, 251 
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -100,6 +100,49 @@ Inter 3 pages 250
                     - Open to two interpretations depending on context:
                         - 1. The action started twenty years ago and it still happens in the present.
                         - 2. The action lasted twenty years but has been completed alread
+- VERBS FOLLOWED BY GERUND OR INFINITIVE
+    - Intransitive 
+        - Don’t require complements to complete meaning.
+    - Transitive 
+        - Require complements to complete meaning. 
+            - Nouns or Pronouns
+            - Verbs 
+                - Infinitive and Gerund
+                - Only Infinitive
+                - Only Gerund
+    - Verbs that take only the Infinitive as a complement:
+        - Agree → Michael agreed to speak to the officer. 
+        - Fail → Lana fails to understand the reason we moved out. 
+        - Request → The defense requests to approach the bench. 
+        - Swear → I swear to tell the truth, no matter what. 
+        - Plan → Leo plans to travel on his own next summer. 
+        - Prepare → Bia got married and now she’s preparing to be a mother. 
+        - Choose → We choose to save up in order to buy a car. 
+        - Get → This is your final chance. You won’t get to try again. 
+        - Wait → Wait to see what’s coming next!
+        - Seem → Larry seems to be worried about something. 
+        - Want → I really want to go on vacation soon.
+        - Wish → My mother wishes to live more than one hundred years. 
+        - Ask → We told Paul we were driving home and he asked to come with us.
+    - Verbs and expressions that take only the Gerund as a complement:
+        - Enjoy → Layla enjoys cooking lunch for her family.
+        - Feel like → I don't feel like playing sports at night.
+        - Finish → Chris needs to finish doing his homework.
+        - Consider → Nicholas never considered having pets.
+        - Can't help → Douglas can't help disagreeing with his parents.
+        - Suggest → Mary suggested taking a cab instead of driving to the wedding.
+        - Recommend → Specialists recommend sleeping in complete darkness.
+        - Miss → I miss having my weekends free. 
+        - Quit → Julia quit smoking years ago.
+        - Understand → The teacher understands his being late. 
+        - Practice → Today we're going to practice parking.
+    - Some verbs will accept different complements according to the meaning they infer. 
+        - Verb to Ask
+            - Meaning "request" → He asked to come with us. 
+            - Meaning "seek an answer" → He asked a question. 
+        - In both possibilities, you can include an object. 
+            - He asked us to come along. 
+            - He asked me a question.
 ## GIVING ADVICE
 >Inter 2 pages: 222  
 - Suggestions and recommendations
