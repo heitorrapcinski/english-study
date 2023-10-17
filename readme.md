@@ -4,7 +4,7 @@ Inter 2 **complete**
 Inter 3 249-253  
 ## VERB TENSES
 >Inter 1 pages: 169, 177 
-Inter 3 pages 250, 251 
+Inter 3 pages 250, 251, 259 
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -100,6 +100,35 @@ Inter 3 pages 250, 251
                     - Open to two interpretations depending on context:
                         - 1. The action started twenty years ago and it still happens in the present.
                         - 2. The action lasted twenty years but has been completed alread
+    - Present Perfect with Adverbs
+        - Position of Adverbs 
+            - Generally between the auxiliary verb have and the main verb 
+            - Exception: "Yet" comes at the end of the sentence
+        -  Always
+            - Context: Timmy spends a lot of money on trips and his dad doesn’t understand it. 
+            - Dialog
+                - Paul – Mary, Timmy is losing control. He needs to be more responsible. 
+                - Mary – Don't be like that. Timmy **has always loved** to travel and he does what he wants with his money. (Always → 100% of time since he was born)
+        - Never
+            - Context: Peter and Janet are receiving Julia for dinner and Peter suggests ordering Japanese. 
+            - Dialog
+                - Peter – So, let's order some Japanese tonight?
+                - Janet – I don't know. Julia **has never eaten** Japanese food, maybe Italian is better. (Never → 0% of time since she was born)
+        - Already
+            - Context: Ian is planning his holiday and he is thinking about going to Jamaica but he wants tips.
+            - Dialog 
+                - Ian – Mark, have you been to Jamaica? I'm looking for tips. 
+                - Mark – Well, I haven't, but Michael **has already traveled** to Jamaica, he might shed some light there. (Already → Before now) 
+        - Ever 
+            - Context: Mia is enrolling at a Spanish course and it is her placement exam. 
+            - Dialog
+                - Coordinator – So, Mia, **Have you ever studied** a foreign language? 
+                - Mia – Not really. I took some classes at school, but nothing much. (Ever → At any time)
+        - Yet
+            - Context: Ken wants to take his girlfriend on a surprise trip and he is planning it with her mother. 
+            - Dialog
+                - Ken – Maggie, I want to surprise Stacy with a trip, but I don’t know where to go. 
+                - Maggie – Well, she **hasn't been** to China nor Japan **yet**, but I know she loves Asian culture. (Yet → At this time, but might sometime in the future)
 - VERBS FOLLOWED BY GERUND OR INFINITIVE
     - Intransitive 
         - Don’t require complements to complete meaning.
@@ -753,7 +782,9 @@ Inter 2 pages: 207, 229, 245
             - Would you like to go out for lunch tomorrow? Yes, I'd love to. / Unfortunately, I can't.
             - Would you like some water? Yes, please. / No, thank you. I'm OK
 ## COMPARATIVE FORMS
->Inter 2 pages: 205, 209, 232  
+>Inter 2 pages: 205, 209, 232 
+Inter 3 pages: 256
+- Compare specific characteristics of two elements 
 - Superiority
     - Long Adjectives
         - More + Adjective + Than
@@ -788,6 +819,28 @@ Inter 2 pages: 207, 229, 245
         - less freqyently: Mike is less friendly than Lawrence.
         - More frequenly: Lawrence is friendlier than Mike
         - More frequenly: Mike is not as friendly as Lawrence.
+- Non-gradable Adjectives
+    - Non-gradable adjectives are adjectives that cannot be measured because they are extreme. For example: something that is wonderful has the quality of being incomparable in regards of how good it is because it is “too good.”
+    - Examples
+        - Wonderful
+        - Marvelous
+        - Terrific
+        - Excellent
+        - Amazing
+        - Awesome
+        - Fantastic
+        - Incredible
+        - Absolut
+        - Horrible
+        - Terrible
+        - Awful
+        - Delicious
+        - Infinite
+        - Ridiculous
+        - Freezing
+        - Dead
+        - Impossible
+    
 ## SUPERLATIVE FORMS
 >Inter 2 pages: 220, 232  
 - The superlative forms refer to extremes. It is one unique thing with an incomparable feature.
@@ -1260,3 +1313,55 @@ Inter 2 pages 236
     - **She asked me** to be her bridesmaid. 
     - **I said that** it would be an honor. 
     - Then, **I asked her** what she needed me to do. 
+## ARGUMENTATIVE STRATEGIES: QUOTATIONS AND OTHER SOURCES
+>Inter 3 pages 253
+- Argumentation 
+    - Based on research, analysis, and critical view on the topic.
+    - Not only exposes the topic but also the writer’s point of view. 
+    - The writer or speaker defends the point of view using data as support.
+    - Usually written in the third person. 
+- Structure of an Argumentative Essay
+    - Introduction → Presents the main idea and conflict in one paragraph.
+    - Development → Three paragraphs with exposition of ideas and solutions of conflicts.
+    - Conclusion → Wraps up the text. No new ideas can appear in this part of the text.
+- Argumentation Essay in Spoken Language
+    - The conversation must also be complete: beginning, middle, and end.
+    - The conversation only ends once the argument is based on evidence.
+    - If the strategies and steps aren’t followed, probably there will be questions to gather extra information and then the audience will reach a conclusion
+- Techniques
+    - There are some resources and techniques one can follow to expose data and support opinion convincingly.
+    - Analyzing Pros and Cons
+        - Taking into consideration positive and negative aspects helps make a reasonable analysis in your speech or text. They will also help you reach a conclusion, so you can structure your text like this: 
+        - Paragraph 1 – Introduction 
+        - Paragraph 2 – Positive aspects 
+        - Paragraph 3 – Negative aspects 
+        - Paragraph 4 – Evaluation of both positive and negative aspects
+        - Paragraph 5 – Conclusion
+    - Rhetorical Strategies
+        - 1. Appeal to logic or reason, usually through inductive or deductive reasoning. 
+            - The writer or speaker must be careful not to use fallacies, which are oversimplification of logic. 
+                - Jack is a boy. Jack is violent. All boys are violent. (This is a fallacy.)
+        - 2. Deal with the character, credibility, and reliability of the writer. Actions like choosing reliable sources, respecting the reader/listener, organizing ideas in the text and proofreading.
+        - 3. Deal with the readers’ emotions. It shows the writer or speaker is connected with the reader by making their text more personal and in ways that the recipient can relate. 
+    - Quotations
+        - There are different techniques to use quotations in writing. Direct quotations are extracts of an author's work or opinion, copied between quotes (""), followed by credits to the original author. 
+        - In academic writing, there are set rules of direct quotations whose reference (author and source of research) will appear in the footnote. 
+        - Indirect quotations don’t usually come between quotes but are usually introduced by phrases that indicate you’re about to quote someone:
+            - According to (name of the author)... 
+            - As (name of the author) states...
+            - As stated by (name of the author)...
+            - (Name of the author) states that...
+        - **Important Note**: The use of an author's words, even if paraphrased, without due credit is what constitutes plagiarism (appropriation of one's work and ideas taking them as one's own). It is considered an ethical foul and undermines the credibility of an author for good. 
+    - Paraphrase
+        - Paraphrases can be explained by the chunk of language "in other words." When you paraphrase an extract or an idea, you say the same thing with different words. The original author must be credited as well. 
+            - René Descartes said: I think, therefore I am. 
+            - Paraphrase – For René Descartes, rationality defines men. 
+    - Summary
+        - Summaries are a short version of an original text that concentrates on its main idea, leaving out details, and written with your own words. Again, the original author must be credited. 
+        - Romeo and Juliet, tragedy written by William Shakespeare, narrates a tragic love story of a couple from diverging families in ancient Verona 
+    - Narrations
+        - Narrations can be used as means to exemplify the author’s point related to data collected during research. These narrations, if based on the author’s experience, don’t need to be credited. 
+        - René Descartes believed that rationality defines men and that seems to be true since intellectuals are the ones who define the principles that guide our society as we learn at school.
+    - Remember that no argumentation is made without support, so, you can justify your conclusions using connectors and indicating references.
+        - Human beings must be careful when killing animals because they balance the environment, according to... 
+   
