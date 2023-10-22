@@ -4,7 +4,7 @@ Inter 2 **complete**
 Inter 3 249-253  
 ## VERB TENSES
 >Inter 1 pages: 169, 177 
-Inter 3 pages 250, 251, 259 
+Inter 3 pages 250, 251, 259, 261 
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -172,6 +172,15 @@ Inter 3 pages 250, 251, 259
         - In both possibilities, you can include an object. 
             - He asked us to come along. 
             - He asked me a question.
+- VERBS FOLLOWED BY GERUND AND INFINITIVE WITH NO CHANGE IN MEANING
+    - Verbs that may be followed by gerund or infinitive without change in meaning
+        - Joan started to take English classes = Joan started taking English classes.
+        - Professor Peters began to talk at nine a.m. = Professor Peters began talking at nine a.m.
+        - My students hate to take tests. = My students hate taking tests. 
+        - Hugo loves to chat online. = Hugo loves chatting online. 
+        - Mario can’t stand waking up early. = Mario can’t stand to wake up early. 
+        - Grant prefers to travel by car. = Grant prefers traveling by car. 
+        - Lenny will continue to study languages. = Lenny will continue studying languages.
 ## GIVING ADVICE
 >Inter 2 pages: 222  
 - Suggestions and recommendations
