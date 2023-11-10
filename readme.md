@@ -1,10 +1,15 @@
 # English Review
->Inter 1 **complete**  
-Inter 2 **complete**
-Inter 3 249-253  
+>Inter 1 **complete**
+>
+>Inter 2 **complete**
+>
+>Inter 3 249-268  
+>
 ## VERB TENSES
 >Inter 1 pages: 169, 177 
-Inter 3 pages 250, 251, 259, 261 
+>
+>Inter 3 pages 250, 251, 259, 261, 267, 268
+>
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
     - Emphasis on duration
@@ -181,8 +186,53 @@ Inter 3 pages 250, 251, 259, 261
         - Mario can’t stand waking up early. = Mario can’t stand to wake up early. 
         - Grant prefers to travel by car. = Grant prefers traveling by car. 
         - Lenny will continue to study languages. = Lenny will continue studying languages.
+- VERBS FOLLOWED BY GERUND AND INFINITIVE WITH CHANGE IN MEANING
+    - Verbs that take both gerund and infinitive with change in meaning
+    - To Forget 
+        - Lilian **forgot to call** her husband. 
+            - She had to do something but she forgot to. 
+        - Lilian **forgot calling** her husband.  
+            - She did call her husband but she doesn’t remember having done it. 
+    - To Remember
+        - Mick **remembered to tell** Mary to wait. 
+            - He had to do something and he didn't forget to. 
+        - Mick **remembers telling** Mary to wait. 
+            - He, now, remembers something he did in the past. 
+    - To Go On
+        - Kim must **go on working** on her report. 
+            - To go on, in this case, means "to continue." 
+        - Kim **went on to explain** things instead of working on her report. 
+            - In this case, to go on infers a change in action.
+    - To Stop
+        - John **stopped** the game **to grab a bite**.
+            - He stopped something in order to do something else. 
+        - John **stopped playing** the game. 
+            - He quit an ongoing action.
+    - To Try
+        - **Try restarting** the program to see if it works better. 
+            - To make an experiment.
+        - **Try to restart** the program if the computer doesn't freeze. 
+            - To make an effort to do something difficult.
+                - In this situation, it is also possible to use the gerund.  
+- PRESENT PERFECT CONTINUOUS
+    - It refers to an action or event that started in the past and continues up to now.
+    - The speaker focuses on showing the progression or continuity of this action or event.
+    - When referring to continuity, the present perfect continuous and the present perfect are interchangeable.
+    - Structure
+        - Affirmative → Subject + Have/Has + Been + Verb in –ING Form
+            - Examples
+                - **I've been doing** exercises every day in order to lose weight
+                - Turk **has been traveling** a lot on business
+        - Negative → Subject + Have not/Haven't or Has not/Hasn't + Been + Verb in –ING Form 
+            - Examples
+                - Leo **hasn't been practicing** the piano lately. 
+                - The students **haven't been feeling** enthusiastic about the new activities
+        - Interrogative → Have/Has + Subject + Been + Verb in –ING Form
+            - **Have** Tommy and Stella **been going** out together?
+            - **Has** the company **been hiring** new employees?        
 ## GIVING ADVICE
 >Inter 2 pages: 222  
+>
 - Suggestions and recommendations
 - You can use modals or semi-modals
 - Modal Verbs
@@ -224,7 +274,9 @@ Inter 3 pages 250, 251, 259, 261
         - Here is what I have to say: if you don't commit to your studies, you might regret it.
 ## MODAL EXPRESSIONS
 >Inter 1 pages 200  
-Inter 2 pages 227, 234, 245  
+>
+>Inter 2 pages 227, 234, 245  
+>
 - Contain similar meanings to those of modal verbs.
 - Might substitute modal verbs in certain situations.
 - Use
@@ -336,7 +388,9 @@ Be Accustomed To
                 - Are you used to traveling solo? (Are you accustomed to traveling on your own?)
 ## CONNECTORS
 >Inter 1 pages: 165, 186, 195  
-Inter 2 pages: 210, 215, 225, 240  
+>
+>Inter 2 pages: 210, 215, 225, 240  
+>
 - What?
     - Prepositions
     - Linking words and expressions
@@ -458,7 +512,9 @@ Inter 2 pages: 210, 215, 225, 240
         - Julienne agreed to have dinner with us, in spite of being on a diet
 ## GIVING OPINION
 >Inter 1 pages: 160, 161, 166, 179, 185, 190, 191  
-Inter 2 pages: 206, 212  
+>
+>Inter 2 pages: 206, 212  
+>
 - Opinion
     - Positive
     - Negative
@@ -657,7 +713,9 @@ Inter 2 pages: 206, 212
             - Leah – What do you mean?
 ## MODAL VERBS
 >Inter 1 pages: 163, 174, 180, 182, 185, 193, 197  
-Inter 2 pages: 207, 229, 245  
+>
+>Inter 2 pages: 207, 229, 245  
+>
 - Modify verbs according to the speaker's perspective
 - Are followed by a bare infinitive verb (without to)
 - verbs used to express mood (such as ability, obligation, necessity, or possibility) according to speakers' judgment. They do not infer an idea of time nor a factual aspect to verbs.
@@ -792,7 +850,9 @@ Inter 2 pages: 207, 229, 245
             - Would you like some water? Yes, please. / No, thank you. I'm OK
 ## COMPARATIVE FORMS
 >Inter 2 pages: 205, 209, 232 
-Inter 3 pages: 256
+>
+>Inter 3 pages: 256
+>
 - Compare specific characteristics of two elements 
 - Superiority
     - Long Adjectives
@@ -848,10 +908,10 @@ Inter 3 pages: 256
         - Ridiculous
         - Freezing
         - Dead
-        - Impossible
-    
+        - Impossible    
 ## SUPERLATIVE FORMS
 >Inter 2 pages: 220, 232  
+>
 - The superlative forms refer to extremes. It is one unique thing with an incomparable feature.
 - Superiority
     - Long Adjectives
@@ -892,7 +952,9 @@ Inter 3 pages: 256
         - Michael is the least interested student in class.
 ## PRONOUNS
 >Inter 1 pages: 176  
-Inter 2 pages: 219  
+>
+>Inter 2 pages: 219  
+>
 - Subject Pronouns
     - Function as subjects
     - Come before verbs
@@ -961,7 +1023,9 @@ Inter 2 pages: 219
         - Adam is worried because the Professor said that Adam is in trouble.
 ## NARRATIVE TIMELINE
 >Inter 1 pages: 164, 170, 183, 185  
-Inter 2 pages: 204, 214, 217  
+>
+>Inter 2 pages: 204, 214, 217  
+>
 - Story -> Narrative -> Moves from the past to the present and into the future
 - In order to make a narrative, it is necessary to use verb forms and time expressions that show the chronological sequence of the actions.
 - Past
@@ -1103,6 +1167,7 @@ Inter 2 pages: 204, 214, 217
             - While = During the time
 ## EXPRESSING QUANTITY
 >Inter 1 pages: 172  
+>
 - Countable Nouns
     - Question: How many?
     - Quantifiers:
@@ -1151,7 +1216,9 @@ Inter 2 pages: 204, 214, 217
         - There aren't any companies in the group. (There is not one company, at all.)
 ## RELATIVE PRONOUNS
 >Inter 1 pages 194  
-Inter 2 pages 236  
+>
+>Inter 2 pages 236  
+>
 - Modify nouns or some pronouns → Used to identify people and things or to give extra information about them.
 - They refer to people, things, or ideas previously mentioned. They are either part of non-restrictive clause or of a restrictive clause.
 - Use
@@ -1206,6 +1273,7 @@ Inter 2 pages 236
                 - (which / that) needs to be fixed = Restrictive Clauses
 ## TAG QUESTIONS
 >Inter 2 pages 239  
+>
 - Use
     - Used at the end of a sentence to confirm the statement previously made.
     - Used with all verb forms.
@@ -1236,6 +1304,7 @@ Inter 2 pages 236
         - I am pretty smart, aren't I?
 ## EXPRESSIONS WITH GET AND FEEL
 >Inter 2 pages 233  
+>
 - There are different ways to express emotions in English. Let's focus on the verbs to get and to feel. 
     - To Get = To Become
         - The verb to get has different meanings according to its complements and contexts. When combined with adjectives, its meaning is to become, as a consequence of something.
@@ -1258,6 +1327,7 @@ Inter 2 pages 236
         - To feel fine
 ## EXPRESSING PREFERENCES
 >Inter 2 pages 244  
+>
 - Verb To Prefer
     - Things
         - Subject + Verb To Prefer + Thing 1 + To + Thing 2 
@@ -1276,6 +1346,7 @@ Inter 2 pages 236
         - I would rather not stay home.
 ## REASONING: WHY
 >Inter 1 pages 199  
+>
 - Reasons, arguments, and evidence that support argumentation
 - Answer the question "Why?" or other questions that seek justification.
 - Question
@@ -1293,6 +1364,7 @@ Inter 2 pages 236
         - **The point** is that if I go shopping for food, we'll only eat cookies and chocolate.
 ## GIVING GOOD AND BAD NEWS
 >Inter 3 pages 249
+>
 - Giving Good News
     - When you have news that will make people happy, there are some expressions you can use
         - The good news is...
@@ -1311,6 +1383,7 @@ Inter 2 pages 236
         - I am afraid that...
 ## BASIC REPORTING STRATEGIES
 >Inter 3 pages 248
+>
 - Retelling something that someone told you or that you overheard
 - When retelling a story, we usually use the verbs 
     - Say something 
@@ -1322,8 +1395,9 @@ Inter 2 pages 236
     - **She asked me** to be her bridesmaid. 
     - **I said that** it would be an honor. 
     - Then, **I asked her** what she needed me to do. 
-## ARGUMENTATIVE STRATEGIES: QUOTATIONS AND OTHER SOURCES
->Inter 3 pages 253
+## ARGUMENTATIVE AND ADVICE-GIVING STRATEGIES
+>Inter 3 pages 253, 263
+>
 - Argumentation 
     - Based on research, analysis, and critical view on the topic.
     - Not only exposes the topic but also the writer’s point of view. 
@@ -1337,7 +1411,7 @@ Inter 2 pages 236
     - The conversation must also be complete: beginning, middle, and end.
     - The conversation only ends once the argument is based on evidence.
     - If the strategies and steps aren’t followed, probably there will be questions to gather extra information and then the audience will reach a conclusion
-- Techniques
+- Argumentative Strategies
     - There are some resources and techniques one can follow to expose data and support opinion convincingly.
     - Analyzing Pros and Cons
         - Taking into consideration positive and negative aspects helps make a reasonable analysis in your speech or text. They will also help you reach a conclusion, so you can structure your text like this: 
@@ -1372,5 +1446,64 @@ Inter 2 pages 236
         - Narrations can be used as means to exemplify the author’s point related to data collected during research. These narrations, if based on the author’s experience, don’t need to be credited. 
         - René Descartes believed that rationality defines men and that seems to be true since intellectuals are the ones who define the principles that guide our society as we learn at school.
     - Remember that no argumentation is made without support, so, you can justify your conclusions using connectors and indicating references.
-        - Human beings must be careful when killing animals because they balance the environment, according to... 
+        - Human beings must be careful when killing animals because they balance the environment, according to...
+- Advice-giving Strategies
+    - Using Commands (Imperative)
+        - The use of Imperatives to give advice is a common resource. It is important to mind your tone of voice when using it. 
+        - Examples
+            - Save a percentage of your salary every month if you want to buy a house. 
+    - Suggestions
+        - Examples
+            - **Don't you think** it's a good idea to have a bank account? 
+            - **Why don't you** start planning your finances for the future?
+            - **How about** saving up for your children's education now? 
+            - You **could** seek a personal finance consultant. 
+    - Hypothesis 
+        - Examples
+            - **If I were you, I would ask** for an accountant's help to start a business. 
+            - **If I were in your shoes, I would wait** a while before investing all my money. 
+    - Modal, Semi-modals, and Modal Expressions
+        - Modals 
+            - Should 
+                - Advice
+            - Must 
+                - Strong Advice
+            - Mustn't 
+                - Prohibition
+        - Semi-modals
+            - Ought to 
+                - Advice
+            - Have to 
+                - Necessity
+        - Modal Expressions
+            - It is advisable to...
+            - It is recommended to...
+            - I highly recommend you...
+        - Examples
+            - You **must** decide what you want to do with your money. 
+            - You **should** save a little every month. 
+            - You **ought to** plan your finances wisely.
+            - You **mustn't** spend too much on unnecessary things.
+## EXPRESSING SEQUENCE
+> Inter 3 pages 265
+>
+- Expressions Used to Express Sequence
+- Explaining Procedures = Giving Instructions 
+    - Sequence of Steps to Follow
+- Examples:
+    - How to Make Pasta
+        - **First**, pour one liter of still water in a pan. 
+        - **Second**, add a pinch of salt and turn the stove on. 
+        - **Third**, get the pasta you want to use and set aside the portion you need.
+        - **Then**, when the water boils, put the pasta into the boiling water.
+        - **Right after that**, stir the pasta into the water to prevent it from sticking.
+        - **After that/Afterwards**, check the pasta every few minutes until it is al dente. 
+        - **Finish by** draining the pasta with a colander. Leave it aside while you prepare the sauce. 
+        - To make the sauce, **start by** stir-frying some chopped onions and garlic in olive oil
+        - **Then**, add some chopped tomatoes.
+        - **After** they’re soft, add some water and bring it to a boil.
+        - **Finish by** seasoning it to taste and serve it hot on top of your pasta. 
+
+
+
    
