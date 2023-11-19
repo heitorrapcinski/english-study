@@ -3,12 +3,12 @@
 >
 >Inter 2 **complete**
 >
->Inter 3 249-268  
+>Inter 3 249-278  
 >
 ## VERB TENSES
 >Inter 1 pages: 169, 177 
 >
->Inter 3 pages 250, 251, 259, 261, 267, 268
+>Inter 3 pages 250, 251, 259, 261, 267, 268, 274
 >
 - PAST CONTINUOUS
     - Actions in progress during a period of time in the past.
@@ -229,7 +229,21 @@
                 - The students **haven't been feeling** enthusiastic about the new activities
         - Interrogative → Have/Has + Subject + Been + Verb in –ING Form
             - **Have** Tommy and Stella **been going** out together?
-            - **Has** the company **been hiring** new employees?        
+            - **Has** the company **been hiring** new employees?    
+- PRESENT PERFECT CONTINUOUS VS. PRESENT PERFECT VS. SIMPLE PAST    
+    - Simple Past
+        - Isolated action that started and finished at a specified moment in the past.
+        - Tim – I lived in a country house but we moved to the city in 1978 because of dad’s job. 
+    - Present Perfect
+        - Focus on continuity and duration
+        - Action that happened at an unknown or irrelevant moment in the past with relevance, influence or result in the present. The speaker looks to the past from the present
+        - First Use
+            - I've lived in a country house before we moved to the city because of dad's job. Maybe that's why I don't really like living in an apartment.
+        - Second Use
+            - I've lived in a country house since I was little, so I'm reluctant to live in an apartment.
+    - Present Perfect Continuous
+        - Action that started in the past and continues up to the present.
+        - I've been living in a country house since I was little, so I'm reluctant to live in an apartment.
 ## GIVING ADVICE
 >Inter 2 pages: 222  
 >
@@ -1503,7 +1517,59 @@ Be Accustomed To
         - **Then**, add some chopped tomatoes.
         - **After** they’re soft, add some water and bring it to a boil.
         - **Finish by** seasoning it to taste and serve it hot on top of your pasta. 
+## EXPLAINING PROCEDURES: REMINDERS
+> Inter 3 pages 271
+>
+- Explaining Procedures
+    - Giving Instructions 
+    - Sequence of Steps to Follow 
+    - Call Attention to Important Steps 
+    - Reminders
+- For example
+    - You are going to host a dinner party but there are some important things to take into consideration if you want it to be a success
+    - **Don't forget to** adjust the salt before serving.
+    - **Remember to** ask your guests if they eat meat.
+    - **Bear in mind that** not everybody likes spicy food. 
+    - **Keep in mind that** when you host a dinner party, you must think carefully about the menu. 
+    - **It's important to** serve even portions so everybody has the same quantity of food.
+    - **Make sure you** protect your hand when taking the baking tray out of the oven.
+## PAIRED CONJUNCTIONS: EITHER…OR AND NEITHER…NOR
+> Inter 3 pages 272
+> 
+- Paired Conjunctions 
+    - Used to give options: - Either…or… 
+    - Used to deny both options: Neither…nor… 
+- Frequently used before equivalent elements in a sentence.
+    - Either…or…
+        - We can go either to park or to the movies. What do you prefer? (Used before the adverbial phrases)
+        - We'll use the money either to go on a family trip or to buy a new car. Choose one. (Used before the verbs)
+    - Neither…nor...
+        - We'll go neither to the park nor to the movies. You didn't do your homework. (Used before the adverbial phrases)
+        - We'll use the money neither to go on a family trip nor to buy a new car. We'll save it for the kids' college. (Used before the verbs)
+- When used before two subjects, the verb agrees with the last subject.
+    - Either Roxy or Melina is picking you up at the airport.
+    - Neither your sister nor your brothers are going to the party.
+## WOULD YOU MIND…?
+> Inter 3 pages 276
+>   
+- Would you mind 
+    - Used to ask for favors or permissions in which people believe the answer 
+    - might be negative, either because you are not close to the other person or because it is a delicate matter. 
+- Structure
+    - Questions
+        - Permissions
+            - Would you mind + if + I + Verb in the Past + Complement
+            - Would you mind if I borrowed your car?
+        - Favors
+            - Would you mind + Verb in –ING form + Complement
+            - Would you mind taking a picture of us?
+    - Answers
+        - The structure "Would you mind…?" can be understood as "Would it be a problem…?" So, pay close attention to how you can answer this kind of question. 
+        - Would you mind if I borrowed your car?
+        - Positive answers
+            - Not at all. (Meaning: No, I don't mind. / No, it's not a problem.)
+            - No. Go ahead
+        - Negative answers
+            - Yes. (Meaning: Yes, I mind. / Yes, it'd be a problem.)
+            - Yes, I would.
 
-
-
-   
