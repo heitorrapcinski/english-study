@@ -1576,3 +1576,18 @@ Be Accustomed To
 
 
 
+ZERO: facts/inexorable situations
+> if + simple present + simple present
+ex: if andrey asks for examples, the students stay silent
+
+FIRST: future consequences
+> if + simple present + will/can/may
+ex: if I go to the gym everyday, I will get in shape
+
+SECOND: hypothesis/unlikely situations
+> if + simple past + would/could/might
+ex: if Andrey wasn't so delicious, he would have a girlfriend
+
+THIRD: impossible
+> if + past perfect + would/could have + verb (past participle)
+ex: if I had slept earlier yesterday, I would have gotten up with more energy today
